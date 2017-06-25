@@ -1,0 +1,51 @@
+****** File tpl ****
+- address.tpl
+- authentication.tpl
+- category.tpl
+- contact-form.tpl
+- discount.tpl
+- footer.tpl
+- global.tpl
+- header.tpl
+- order-carrier-opc-advanced.tpl
+- order-payment-classic.tpl
+- order-return.tpl
+- pagination.tpl
+- product.tpl
+- shopping-cart.tpl
+- shopping-cart-advanced.tpl
+- shopping-cart-product-line.tpl
+- supplier-list.tpl
+- \sub\product-item\product-item.tpl
+- \modules\bankwire\views\templates\hook\payment_return.tpl
+- \modules\blockcart\blockcart.tpl
+- \modules\blockcms\blockcms.tpl
+- \modules\blocklanguages\blocklanguages.tpl
+- \modules\blocksocial\blocksocial.tpl
+- \modules\blockuserinfo\nav.tpl
+- \modules\blockwishlist\views\templates\front\mywishlist.tpl
+- \modules\blockwishlist\blockwishlist_button.tpl
+- \modules\blockwishlist\blockwishlist-extra.tpl
+- \modules\leobootstrapmenu\views\templates\hook\megamenu.tpl
+- \modules\leobootstrapmenu\views\widgets\widget_product.tpl
+- \modules\leobootstrapmenu\views\widgets\widget_products.tpl
+- \modules\loyalty\views\templates\hook\product.tpl
+- \modules\productcomments\products-comparison.tpl
+
+***** File JS *****
+- js\modules\blockcart\ajax-cart.js
+- js\modules\blocklayered\blocklayered.js
+- js\modules\blocktopmenu\js\blocktopmenu.js
+- js\modules\loyalty\js\loyalty.js
+- js\tools\statesManagement.js
+- js\global.js
+- js\product.js
+- js\stores.js
+
+*** File CSS ***
+- global.css
+- delete font-awesome.min.css
+- delete folder font-awesome
+
+*** Fonts ***
+- Update folder fonts to get the latest font
